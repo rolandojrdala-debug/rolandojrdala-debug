@@ -1,9 +1,4 @@
 <div align="center">
-  <!-- Banner Image (Recommended size: 1200x300px) -->
-  <img src="/25-11395-384.jpg" alt="Profile Banner" width="100%" />
-
-  <br /><br />
-
   <!-- Profile Picture: Replace src with ./profile.png or your uploaded GitHub image URL -->
   <img src="/25-11395-384.jpg" alt="Rolando Jr. R. Dala Profile Picture" width="160" height="160" />
 
