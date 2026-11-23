@@ -1,4 +1,20 @@
-# Hi there, I'm Rolando Jr. R. Dala 
+<div align="center">
+  <!-- Banner Image (Recommended size: 1200x300px) -->
+  <img src="/25-11395-384.jpg" alt="Profile Banner" width="100%" />
+
+  <br /><br />
+
+  <!-- Profile Picture: Replace src with ./profile.png or your uploaded GitHub image URL -->
+  <img src="/25-11395-384.jpg" alt="Rolando Jr. R. Dala Profile Picture" width="160" height="160" />
+
+  <h1>Hi there, I'm Rolando Jr. R. Dala 👋</h1>
+  <p><strong>BS Information Technology Student • Software Developer • Database Enthusiast</strong></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/rolando-jr-r-dala-491a10443/">LinkedIn</a> •
+    <a href="mailto:rolandojrdala@neu.edu.ph">Email</a>
+  </p>
+</div>
 
 I have a flair for coding and database management skills, thriving on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program, where I continue to sharpen my skills in software development, cloud infrastructure, and data management.
 
@@ -33,3 +49,5 @@ I have a flair for coding and database management skills, thriving on tackling c
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/rolando-jr-r-dala-491a10443](https://www.linkedin.com/in/rolando-jr-r-dala-491a10443/)
 * **Email:** [rolandojrdala@neu.edu.ph](mailto:rolandojrdala@neu.edu.ph)
+
+Thank you for visiting my GitHub profile!
